@@ -24,6 +24,7 @@ function getList(nth) {
  */
 function getNumber(nth) {
   
+  
   if (nth === 0) return 0
   if (nth === 1) return 1
 
